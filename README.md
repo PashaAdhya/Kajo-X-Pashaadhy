@@ -22,8 +22,8 @@
 ### Install ⬇️
 
 ```bash
-> git clone https://github.com/KurrXd/kurr-X-trash
-> cd kurr-X-trash
+> git clone https://github.com/PashaAdhya/Repository-Pashaadhy
+> cd pasha-X-trash
 > npm i
 ```
 ### For termux users before running the above command write this command
